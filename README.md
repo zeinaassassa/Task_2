@@ -34,6 +34,7 @@
 > source /home/"username"/catkin_ws/devel/setup.bash
 
 -> for me (I have changed my name Zina instead of username )
+
 -> source /home/"zeina"/catkin_ws/devel/setup.bash
 
 ###### Don`t forget to press ctrl+o to save changes, then write this command:
