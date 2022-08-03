@@ -43,3 +43,4 @@
 ###### Finally: we can launch RIVz by following command:
 > roslaunch robot_arm_pkg check_motors.launch
 
+*****************************************************************************************************
