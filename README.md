@@ -32,6 +32,7 @@
 
 ###### Then: Add the following source to the end of this file:
 > source /home/"username"/catkin_ws/devel/setup.bash
+
 -> for me (I have changed my name Zina instead of username )
 -> source /home/"zeina"/catkin_ws/devel/setup.bash
 
